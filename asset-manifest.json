@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vinodbgavali/portfolio-Website/static/css/main.cb2386ba.chunk.css",
+    "main.js": "/vinodbgavali/portfolio-Website/static/js/main.ae33121c.chunk.js",
+    "main.js.map": "/vinodbgavali/portfolio-Website/static/js/main.ae33121c.chunk.js.map",
+    "runtime-main.js": "/vinodbgavali/portfolio-Website/static/js/runtime-main.32540d2b.js",
+    "runtime-main.js.map": "/vinodbgavali/portfolio-Website/static/js/runtime-main.32540d2b.js.map",
+    "static/js/2.6fb2d1bf.chunk.js": "/vinodbgavali/portfolio-Website/static/js/2.6fb2d1bf.chunk.js",
+    "static/js/2.6fb2d1bf.chunk.js.map": "/vinodbgavali/portfolio-Website/static/js/2.6fb2d1bf.chunk.js.map",
+    "index.html": "/vinodbgavali/portfolio-Website/index.html",
+    "precache-manifest.7e612285434e6a82b2469ede040e89eb.js": "/vinodbgavali/portfolio-Website/precache-manifest.7e612285434e6a82b2469ede040e89eb.js",
+    "service-worker.js": "/vinodbgavali/portfolio-Website/service-worker.js",
+    "static/css/main.cb2386ba.chunk.css.map": "/vinodbgavali/portfolio-Website/static/css/main.cb2386ba.chunk.css.map",
+    "static/js/2.6fb2d1bf.chunk.js.LICENSE.txt": "/vinodbgavali/portfolio-Website/static/js/2.6fb2d1bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32540d2b.js",
+    "static/js/2.6fb2d1bf.chunk.js",
+    "static/css/main.cb2386ba.chunk.css",
+    "static/js/main.ae33121c.chunk.js"
+  ]
+}
